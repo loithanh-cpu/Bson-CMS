@@ -1,6 +1,6 @@
 {
     "name": "bson-cms/bson-cms",
-    "description": "Aimeos ecommerce and shop system",
+    "description": "Aimeos ecommerce and cms system",
     "keywords": ["aimeos", "ecommerce", "shop", "laravel", "distribution"],
     "license": "MIT",
     "type": "project",
